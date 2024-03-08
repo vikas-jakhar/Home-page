@@ -291,7 +291,7 @@
     content: '';
     position: absolute;
     top: 0%;
-    left: -60px;
+    left: -43px;
     height: 36px;
     width: 36px;
     border-radius: 50%;
@@ -303,7 +303,7 @@
     content: '';
     position: absolute;
     top: 0%;
-    left: -60px;
+    left: -43px;
     height: 36px;
     width: 36px;
     border-radius: 50%;
@@ -442,7 +442,7 @@
     z-index: 3;
 }
 
-.show-menu{
+.show-menu {
     left: 0%;
 }
 
