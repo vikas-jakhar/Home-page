@@ -39,6 +39,7 @@
     background-size: cover;
     min-height: 43vh;
     margin-top: 70px;
+    background-position: center;
 }
 
 .w-100 {
@@ -556,6 +557,10 @@
     bottom: 15%;
 }
 
+.flex-dir-cr{
+    flex-direction: column-reverse;
+}
+
 @media (min-width:576px) {
     .col-sm-6 {
         width: 50%;
@@ -636,6 +641,9 @@
         background-color: transparent;
         flex-direction: row;
         justify-content: center;
+    }
+    .flex-dir-r{
+        flex-direction: row;
     }
 }
 
